@@ -7,16 +7,16 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Nikhil143 {
-	/*private WebDriver driver1;
+	//private WebDriver driver1;
 	Actions act;
 	@FindBy (xpath="//input[@value='-']")
 	private WebElement minusquantity;
 	
-	@FindBy (xpath="//button[@value='Update cart']")
-	private WebElement updatecart;
+	//@FindBy (xpath="//button[@value='Update cart']")
+	//private WebElement updatecart;
 	
 	@FindBy (xpath="//div[@class='wc-proceed-to-checkout']")
-	private WebElement checkout;*/
+	private WebElement checkout;
 	
 	
 	
